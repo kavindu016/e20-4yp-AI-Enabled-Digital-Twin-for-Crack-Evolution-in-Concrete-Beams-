@@ -1,0 +1,11 @@
+tensorflow
+fastapi
+uvicorn
+numpy
+opencv-python
+torch
+torchvision
+segmentation-models-pytorch
+websockets
+asyncio-contextmanager
+
