@@ -1,0 +1,37 @@
+{
+    "team": [
+        {
+            "name": "Madhura T.W.K.J.",
+            "email": "e20231@eng.pdn.ac.lk",
+            "eNumber": "E/20/231"
+        },
+        {
+            "name": "Amarakeerthi H.K.K.G",
+            "email": "e20016@eng.pdn.ac.lk",
+            "eNumber": "E/20/016"
+        },
+        {
+            "name": "Ukwaththa U.A.N.T.",
+            "email": "e20404@eng.pdn.ac.lk",
+            "eNumber": "E/20/404"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Dr. Upul Jayasinghe",
+            "email": "upuljm@eng.pdn.ac.lk"
+        },
+        {
+            "name": "Dr. J.A.S.C.Jayasinghe",
+            "email": "supunj@eng.pdn.ac.lk"
+        }
+    ],
+    "media": [
+        {
+            "type": "youtube",
+            "title": "",
+            "url": "#"
+        }
+    ],
+    "tags": ["Final Year Projects"]
+}
